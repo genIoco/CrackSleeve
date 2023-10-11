@@ -44,6 +44,10 @@ CobaltStrike4.x Sleeve解密文件, 搬砖自用。
 
 -   sleeve4_8 = {-118, 9, -22, -51, -53, 27, 95, 70, -99, -54, 53, 124, -9, -7, -26, 74};
 
+### 4.9
+
+-   sleeve4_8 = {-1, 12, -6, 65, 7, -47, 91, 48, 17, 61, 29, 43, -99, -23, 21, 109}；
+
 ## 使用方法
 
 -   将cobaltstrike.jar（原名cobaltstrike-client.jar）和CrackSleeve.java放一起
